@@ -1,0 +1,1 @@
+FROM solanalabs/solana:v1.8.14
